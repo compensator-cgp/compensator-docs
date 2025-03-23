@@ -63,6 +63,30 @@ const config = {
           srcDark: "img/logo_dark.png",
         },
         items: [
+          // {
+          //   to: "https://compensator.io",
+          //   label: "Site",
+          //   position: "right",
+          //   target: "_blank",
+          // },
+          {
+            type: "doc",
+            docId: "overview/intro",
+            position: "right",
+            label: "Site",
+            href: "https://compensator.io",
+          },
+          {
+            type: "doc",
+            docId: "overview/intro",
+            position: "right",
+            label: "Discord",
+            href: "https://compound.finance/discord",
+          },
+          {
+            type: "search",
+            position: "right",
+          },
         ],
       },
       prism: {
