@@ -1,0 +1,84 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #030303;
+  --ifm-color-primary-dark: #2C2E37;
+  --ifm-color-primary-darker: #030303;
+  --ifm-color-primary-darkest: #030303;
+  --ifm-color-primary-light: #959595;
+  --ifm-color-primary-lighter: #959595;
+  --ifm-color-primary-lightest: #959595;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #FCFAFF;
+  --ifm-color-primary-dark: #030303;
+  --ifm-color-primary-darker: #030303;
+  --ifm-color-primary-darkest: #030303;
+  --ifm-color-primary-light: #FAFAFB;
+  --ifm-color-primary-lighter: #959595;
+  --ifm-color-primary-lightest: #959595;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Define Neue Haas Grotesk fonts */
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  src: url('/fonts/NHaasGroteskTXPro-55Rg.otf') format('opentype');
+  font-weight: 400; /* Regular */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  src: url('/fonts/NHaasGroteskTXPro-56It.otf') format('opentype');
+  font-weight: 400; /* Regular */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  src: url('/fonts/NHaasGroteskDSPro-75Bd.otf') format('opentype');
+  font-weight: 700; /* Bold */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  src: url('/fonts/NHaasGroteskDSPro-76BdIt.otf') format('opentype');
+  font-weight: 700; /* Bold */
+  font-style: italic;
+}
+
+/* Apply Neue Haas Grotesk to headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Neue Haas Grotesk', sans-serif;
+  font-weight: 600; /* Semibold */
+}
+
+/* Example for small titles */
+.small-title {
+  font-family: 'Neue Haas Grotesk', sans-serif;
+  font-weight: 400; /* Regular */
+}
+
+/* Apply Neue Haas Grotesk to body text */
+body {
+  font-family: 'Neue Haas Grotesk', sans-serif;
+  font-weight: 400; /* Regular */
+}
+
+/* Navbar title styling */
+.navbar__title {
+  font-family: 'Neue Haas Grotesk', sans-serif;
+  font-weight: 600; /* Semibold */
+  font-size: 24px;
+}
