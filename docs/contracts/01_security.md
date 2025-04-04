@@ -1,4 +1,4 @@
-# Audits
+# Security
 
 | Auditor       | Date           | Link       |
 | ------------- | -------------- | ---------- |
