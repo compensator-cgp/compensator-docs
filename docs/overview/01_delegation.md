@@ -152,7 +152,3 @@ After successfully delegating your COMP tokens:
 2. **Explore COMP Staking**: Discover how to [stake COMP tokens](./staking) for specific proposals
 3. **Set Up Your Profile**: Consider becoming a delegate by [creating your profile](./profiles)
 4. **Join Community**: Connect with other users on [Discord](https://compound.finance/discord)
-
----
-
-*Delegation is the foundation of Compensator's governance marketplace. By delegating wisely, you can participate in Compound DAO governance while earning rewards from experienced delegates.*

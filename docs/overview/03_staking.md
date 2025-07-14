@@ -172,7 +172,3 @@ After understanding staking mechanics:
 2. **Learn About Rewards**: Understand [reward mechanisms](./rewards) for additional earnings
 3. **Set Up Profile**: Consider [becoming a delegate](./profiles) to receive stakes
 4. **Join Community**: Connect with other stakeholders on [Discord](https://compound.finance/discord)
-
----
-
-*Staking in Compensator represents a new paradigm in governance participation, allowing token holders to directly influence outcomes while maintaining full control over their assets.*

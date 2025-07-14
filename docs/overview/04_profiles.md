@@ -205,7 +205,3 @@ After setting up your profile:
 2. **Understand Rewards**: Review [reward systems](./rewards) to optimize your offerings
 3. **Explore Staking**: Discover how [staking](./staking) can enhance your influence
 4. **Join Community**: Connect with other delegates on [Discord](https://compound.finance/discord)
-
----
-
-*Your profile is your gateway to becoming an active participant in Compound DAO governance. With proper setup and management, you can build a successful delegate presence and contribute to the ecosystem's growth.*
