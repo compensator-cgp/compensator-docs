@@ -72,27 +72,27 @@ Compensator is a marketplace for Compound DAO that enables transparent governanc
 
 <div class="quick-links-grid">
 
-<a href="./overview/profiles" class="quick-link-card">
+<a href="../overview/profiles" class="quick-link-card">
   <h4>Profile Setup</h4>
   <p>Setup your delegate profile</p>
 </a>
 
-<a href="./overview/delegation" class="quick-link-card">
+<a href="../overview/delegation" class="quick-link-card">
   <h4>Delegation Guide</h4>
   <p>Become a delegator and start earning</p>
 </a>
 
-<a href="./overview/rewards" class="quick-link-card">
+<a href="../overview/rewards" class="quick-link-card">
   <h4>Rewards System</h4>
   <p>Claim COMP from delegations</p>
 </a>
 
-<a href="./overview/staking" class="quick-link-card">
+<a href="../overview/staking" class="quick-link-card">
   <h4>Staking Guide</h4>
   <p>Incentivize vote outcomes</p>
 </a>
 
-<a href="./overview/voting" class="quick-link-card">
+<a href="../overview/voting" class="quick-link-card">
   <h4>Voting System</h4>
   <p>Cast votes and earn rewards</p>
 </a>
