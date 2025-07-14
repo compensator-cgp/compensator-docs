@@ -19,11 +19,10 @@ A profile serves as your identity and operational hub in Compensator, allowing y
 
 ### Core Profile Elements
 
-1. **Personal Information**: Name, description, and contact details
-2. **Wallet Address**: Your Ethereum address for transactions
-3. **Reward Configuration**: Rate and terms for delegator compensation
-4. **Smart Contract Instance**: Your deployed Compensator contract
-5. **Voting History**: Track record of governance participation
+1. **Wallet Address**: Your Ethereum address for transactions
+2. **Reward Configuration**: Rate and terms for delegator compensation
+3. **Smart Contract Instance**: Your deployed Compensator contract
+4. **Voting History**: Track record of governance participation
 
 <!-- ![Profile Components](/img/profile-components.png)
 <p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
@@ -77,9 +76,7 @@ Enter your profile details:
 
 **Required Information:**
 - **Name**: Your delegate name (will be displayed publicly)
-- **Description**: Brief overview of your governance philosophy
 - **Wallet Address**: Your Ethereum address (auto-populated)
-- **Contact Information**: How delegators can reach you
 
 **Optional Information:**
 - **Social Media Links**: Twitter, Discord, or other platforms
