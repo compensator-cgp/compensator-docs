@@ -104,7 +104,7 @@ This creates a complete incentive system where:
 .quick-link-card {
   padding: 1.5rem;
   border: 1px solid var(--ifm-color-emphasis-200);
-  border-radius: 12px;
+  border-radius: 6px;
   background-color: var(--ifm-color-emphasis-0);
   transition: all 0.2s ease;
   cursor: pointer;
