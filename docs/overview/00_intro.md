@@ -97,9 +97,9 @@ Compensator is a delegate marketplace for Compound DAO that enables transparent 
   <p>Verify smart contracts</p>
 </a>
 
-<a href="../contracts/security" class="quick-link-card">
-  <h4>Security Overview</h4>
-  <p>Security best practices</p>
+<a href="../contracts/audits" class="quick-link-card">
+  <h4>Audits Overview</h4>
+  <p>Security-first approach</p>
 </a>
 
 </div>
