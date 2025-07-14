@@ -156,18 +156,4 @@ You must have delegated COMP to a delegate's Compensator instance. This ensures:
 - You must delegate COMP tokens before staking
 - Ensure your delegate has a Compensator instance
 - Check that your delegation is active and confirmed
-- Review the [delegation guide](./delegation) for setup instructions
-
-<!-- ![Troubleshooting Guide](/img/staking-troubleshooting.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Common staking issues and solutions</em>
-</p> -->
-
-## Next Steps
-
-After understanding staking mechanics:
-
-1. **Start Delegating**: Read our [delegation guide](./delegation) to set up your foundation
-2. **Learn About Rewards**: Understand [reward mechanisms](./rewards) for additional earnings
-3. **Set Up Profile**: Consider [becoming a delegate](./profiles) to receive stakes
-4. **Join Community**: Connect with other stakeholders on [Discord](https://compound.finance/discord)
+- Review [delegation guide](./delegation) for setup

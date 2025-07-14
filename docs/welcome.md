@@ -101,10 +101,4 @@ Compensator is a marketplace for Compound DAO that enables transparent governanc
   <h4>Contract Addresses</h4>
   <p>Verify smart contracts</p>
 </a>
-
-<!-- <a href="../contracts/audits" class="quick-link-card">
-  <h4>Audits Overview</h4>
-  <p>Security-first approach</p>
-</a> -->
-
 </div>

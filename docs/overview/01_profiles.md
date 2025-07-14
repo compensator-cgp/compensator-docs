@@ -190,18 +190,4 @@ Once your profile is set up, you'll need to manage:
 - Verify COMP token approval
 - Check for sufficient COMP balance
 - Ensure proper transaction confirmation
-- Review smart contract deployment status
-
-<!-- ![Troubleshooting Guide](/img/profile-troubleshooting.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Common profile setup issues and solutions</em>
-</p> -->
-
-## Next Steps
-
-After setting up your profile:
-
-1. **Start Delegating**: Learn about [delegation mechanics](./delegation) from the delegator perspective
-2. **Understand Rewards**: Review [reward systems](./rewards) to optimize your offerings
-3. **Explore Staking**: Discover how [staking](./staking) can enhance your influence
-4. **Join Community**: Connect with other delegates on [Discord](https://compound.finance/discord)
+- Review contract deployment status

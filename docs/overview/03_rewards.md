@@ -113,19 +113,5 @@ Before claiming, review:
 
 **Claim Transaction Fails**
 - Ensure you have sufficient ETH for gas fees
-- Check that you're on the correct Ethereum network
 - Try claiming a smaller amount if gas limits are exceeded
-
-<!-- ![Troubleshooting Guide](/img/rewards-troubleshooting.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Common reward issues and solutions</em>
-</p> -->
-
-## Next Steps
-
-After understanding how rewards work:
-
-1. **Start Delegating**: Read our [delegation guide](./delegation) to begin earning rewards
-2. **Explore Staking**: Learn about [staking opportunities](./staking) for additional earnings
-3. **Become a Delegate**: Consider [setting up your profile](./profiles) to offer rewards
-4. **Join Community**: Connect with other users on [Discord](https://compound.finance/discord)
+- Check that you're on the correct Ethereum network
