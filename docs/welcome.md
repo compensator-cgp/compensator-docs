@@ -1,4 +1,4 @@
-# Introduction
+# Welcome
 
 Compensator is a marketplace for Compound DAO that enables transparent governance participation and incentivized delegation. Delegators can explore delegates and allocate vote power while delegates can offer transparent rewards. Compensator also enables the staking of COMP tokens for or against proposals.
 

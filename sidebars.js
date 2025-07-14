@@ -14,8 +14,8 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   main: [
-    // Introduction as a top-level item
-    'introduction',
+    // Welcome as a top-level item
+    'welcome',
     // Overview dropdown for the rest
     {
       type: 'category',
