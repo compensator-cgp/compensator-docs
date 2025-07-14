@@ -7,7 +7,6 @@ Compensator is a marketplace for Compound DAO that enables transparent governanc
 ### **Delegate Marketplace**
 - Discover and evaluate delegates based on their track record
 - Transparent reward structures and delegation terms
-- Secure vote power allocation
 
 ### **Incentivized Governance**
 - Stake COMP tokens for or against specific proposals
