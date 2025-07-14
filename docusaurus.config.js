@@ -15,6 +15,7 @@ const config = {
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
+
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
@@ -26,7 +27,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: "/main",
+          routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           remarkPlugins: [math],
           rehypePlugins: [katex],
@@ -70,18 +71,16 @@ const config = {
           //   target: "_blank",
           // },
           {
-            type: "doc",
-            docId: "overview/intro",
+            to: "https://compensator.io",
             position: "right",
-            label: "Site",
-            href: "https://compensator.io",
+            label: "Website",
+            target: "_blank",
           },
           {
-            type: "doc",
-            docId: "overview/intro",
+            to: "https://compound.finance/discord",
             position: "right",
             label: "Discord",
-            href: "https://compound.finance/discord",
+            target: "_blank",
           },
           {
             type: "search",

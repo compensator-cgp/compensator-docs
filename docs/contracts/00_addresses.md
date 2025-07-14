@@ -2,4 +2,4 @@
 
 | Network       | Address       |
 | -------------  | ------------- |
-| Mainnet      | [#](https://etherscan.io/address/#) |
+| Mainnet      | [Coming soon](https://etherscan.io/address/#) |
