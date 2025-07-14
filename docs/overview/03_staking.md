@@ -1,6 +1,6 @@
 # Staking
 
-Staking in Compensator is a powerful mechanism that allows COMP holders to incentivize specific vote outcomes. By staking COMP tokens for or against particular proposals, you can directly influence delegate voting behavior.
+Staking in Compensator is a powerful mechanism that allows COMP holders to incentivize specific vote outcomes. By staking COMP holdings for or against particular proposals, holders can directly influence voting behavior openly and at scale.
 
 ### What is Staking?
 
