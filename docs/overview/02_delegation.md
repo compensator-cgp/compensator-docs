@@ -1,6 +1,6 @@
 # Delegation
 
-Delegation is the core mechanism that powers the Compensator marketplace. By delegating your COMP holdings, you can participate in governance while earning rewards from delegates who offer compensation for your vote power.
+Delegation is the core mechanism that powers the Compensator marketplace. By delegating your COMP holdings, you can participate in governance while earning rewards from delegates who offer compensation.
 
 ### What is Delegation?
 

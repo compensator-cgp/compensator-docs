@@ -1,6 +1,6 @@
 # Staking
 
-Staking in Compensator is a powerful mechanism that allows COMP holders to incentivize specific vote outcomes. By staking COMP holdings for or against particular proposals, holders can directly influence voting behavior openly and at scale.
+Staking in Compensator allows COMP holders to incentivize vote outcomes. By staking COMP holdings for or against particular proposals, holders can directly influence voting behavior transparently and at scale.
 
 ### What is Staking?
 
@@ -87,7 +87,7 @@ Before staking, thoroughly analyze:
   <em>Analyzing proposal details and potential impact</em>
 </p> -->
 
-### Step 3: Choose Your Stake Amount
+### Step 3: Choose Your Amount
 
 Consider these factors when deciding stake amount:
 - **Available COMP**: How much you can afford to stake
@@ -131,8 +131,7 @@ After placing your stake:
 
 ### Delegation Requirements
 
-**Critical Requirement**: You must have delegated COMP tokens to a delegate's Compensator instance. This ensures:
-- Proper incentive alignment
+You must have delegated COMP to a delegate's Compensator instance. This ensures:
 - Secure transaction processing
 - Transparent stake distribution
 - Valid governance participation

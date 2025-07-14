@@ -1,6 +1,6 @@
 # Profiles
 
-Profiles are the foundation of Compensator's delegate marketplace. Every user has a dedicated profile page that enables them to create a Compensator instance (smart contract) and establish their presence in the Compound governance ecosystem.
+Profiles are the foundation of Compensator's delegate marketplace. Every user has a dedicated page that enables them to create a Compensator instance and establish their presence in the Compound ecosystem.
 
 ### What is a Profile?
 

@@ -1,6 +1,6 @@
 # Rewards
 
-Rewards are the incentive mechanism that makes Compensator's delegation marketplace thrive. By delegating your COMP tokens to qualified delegates, you can earn additional COMP tokens as compensation for your vote power.
+Rewards are the mechanism that makes Compensator's marketplace thrive. By delegating your COMP tokens to qualified delegates, you can earn additional COMP tokens as compensation for your vote power.
 
 ### How Rewards Work
 
@@ -96,15 +96,6 @@ Before claiming, review:
 <p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
   <em>Step-by-step process for claiming your rewards</em>
 </p> -->
-
-## Reward Optimization
-
-### Maximizing Your Earnings
-
-1. **Choose High-Rate Delegates**: Look for delegates offering competitive rates
-2. **Diversify Delegations**: Spread your delegations across multiple delegates
-3. **Monitor Performance**: Track which delegates consistently pay rewards
-4. **Stay Active**: Regularly review and adjust your delegations
 
 ## Troubleshooting
 

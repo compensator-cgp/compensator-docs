@@ -1,6 +1,6 @@
 # Introduction
 
-Compensator is a delegate marketplace for Compound DAO that enables transparent governance participation and incentivized delegation. Through our platform, delegators can explore delegates and allocate vote power while delegates can offer transparent rewards. Compensator also enables the staking of COMP tokens for or against specific proposals.
+Compensator is a marketplace for Compound DAO that enables transparent governance participation and incentivized delegation. Delegators can explore delegates and allocate vote power while delegates can offer transparent rewards. Compensator also enables the staking of COMP tokens for or against proposals.
 
 ## Key Features
 
@@ -87,6 +87,11 @@ Compensator is a delegate marketplace for Compound DAO that enables transparent 
   <p>Incentivize vote outcomes</p>
 </a>
 
+<a href="./voting" class="quick-link-card">
+  <h4>Voting System</h4>
+  <p>Cast votes and earn rewards</p>
+</a>
+
 <a href="./profiles" class="quick-link-card">
   <h4>Profile Setup</h4>
   <p>Setup your delegate profile</p>
@@ -97,9 +102,9 @@ Compensator is a delegate marketplace for Compound DAO that enables transparent 
   <p>Verify smart contracts</p>
 </a>
 
-<a href="../contracts/audits" class="quick-link-card">
+<!-- <a href="../contracts/audits" class="quick-link-card">
   <h4>Audits Overview</h4>
   <p>Security-first approach</p>
-</a>
+</a> -->
 
 </div>
