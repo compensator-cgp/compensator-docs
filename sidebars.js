@@ -15,7 +15,7 @@
 const sidebars = {
   main: [
     // Introduction as a top-level item
-    'overview/intro',
+    'introduction',
     // Overview dropdown for the rest
     {
       type: 'category',

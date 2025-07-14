@@ -4,7 +4,7 @@ import { useEffect } from 'react';
 export default function Home() {
   useEffect(() => {
     // Instant redirect to the introduction page with no loading text
-    window.location.replace('/overview/intro');
+    window.location.replace('/introduction');
   }, []);
 
   // Return null to show nothing while redirecting
