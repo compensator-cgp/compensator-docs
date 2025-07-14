@@ -32,7 +32,7 @@ Compensator is a delegate marketplace for Compound DAO that enables transparent 
 .quick-links-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1rem;
+  gap: 12px;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
@@ -49,7 +49,7 @@ Compensator is a delegate marketplace for Compound DAO that enables transparent 
 }
 
 .quick-link-card:hover {
-  border-color: var(--ifm-color-emphasis-400);
+  border-color: #10B981;
   box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
   transform: translateY(-2px);
   text-decoration: none;
@@ -57,7 +57,7 @@ Compensator is a delegate marketplace for Compound DAO that enables transparent 
 
 .quick-link-card h4 {
   margin: 0 0 0.5rem 0;
-  color: var(--ifm-color-primary);
+  color: var(--ifm-font-color-base);
 }
 
 .quick-link-card p {
@@ -103,7 +103,3 @@ Compensator is a delegate marketplace for Compound DAO that enables transparent 
 </a>
 
 </div>
-
----
-
-*Compensator is built on Compound DAO's governance infrastructure, providing a seamless experience for all participants.*

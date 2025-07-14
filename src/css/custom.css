@@ -82,3 +82,60 @@ body {
   font-weight: 600; /* Semibold */
   font-size: 24px;
 }
+
+/* Global link hover styling */
+a:hover:not(.quick-link-card) {
+  color: #10B981;
+  text-decoration: none;
+}
+
+/* Card hover effects for consistent styling */
+.card:hover,
+.quick-link-card:hover,
+[class*="card"]:hover {
+  border-color: #10B981 !important;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+  transition: all 0.2s ease;
+}
+
+/* Primary color for interactive elements */
+.btn-primary,
+.button--primary,
+[class*="primary"] {
+  background-color: #10B981;
+  border-color: #10B981;
+}
+
+.btn-primary:hover,
+.button--primary:hover,
+[class*="primary"]:hover {
+  background-color: #059669;
+  border-color: #059669;
+}
+
+/* Pagination navigation buttons */
+.pagination-nav__link {
+  border-color: var(--ifm-color-emphasis-300) !important;
+  transition: all 0.2s ease;
+}
+
+.pagination-nav__link:hover {
+  border-color: #10B981 !important;
+  box-shadow: 0px 2px 4px rgba(16, 185, 129, 0.2);
+  transform: translateY(-1px);
+}
+
+.pagination-nav__label {
+  color: var(--ifm-font-color-base);
+  font-weight: 500;
+}
+
+.pagination-nav__sublabel {
+  color: var(--ifm-color-emphasis-600);
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+
+
