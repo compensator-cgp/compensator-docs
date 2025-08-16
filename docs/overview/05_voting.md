@@ -79,7 +79,7 @@ When a delegate votes correctly on a proposal:
 The voting system is tightly integrated with the staking mechanism:
 
 1. **Delegators Stake**: Users stake COMP with a delegate, indicating vote preference
-2. **Delegate Votes**: Delegate votes in alignment with delegators' stakes
+2. **Delegate Votes**: Delegate votes in alignment with delegator's stakes
 3. **Delegate Compensation**: Delegate earns 100% of winning stakes when voting correctly
 4. **Delegator Satisfaction**: Delegators get their desired governance outcome
 5. **Stake Protection**: Delegators get stake back if delegate votes incorrectly
