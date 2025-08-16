@@ -11,11 +11,6 @@ Delegation allows COMP holders to allocate voting power to delegates who vote on
 - **Flexible Control**: Maintain full control over your tokens while delegating
 - **Expert Guidance**: Leverage the expertise of experienced delegates
 
-<!-- ![Delegation Overview](/img/delegation-overview.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>How delegation works in the Compensator ecosystem</em>
-</p> -->
-
 ## Prerequisites
 
 Before you can delegate your COMP tokens, ensure you have:
@@ -23,11 +18,6 @@ Before you can delegate your COMP tokens, ensure you have:
 1. **COMP Tokens**: You must hold COMP tokens in your wallet
 2. **Connected Wallet**: A Web3 wallet (MetaMask, WalletConnect, etc.) connected
 3. **Ethereum Network**: Ensure you're on the Ethereum Mainnet network
-
-<!-- ![Prerequisites Checklist](/img/delegation-prerequisites.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Required setup before delegation</em>
-</p> -->
 
 ## How to Delegate
 
@@ -37,11 +27,6 @@ Before you can delegate your COMP tokens, ensure you have:
 2. Click the "Connect Wallet" button in the top nav
 3. Select your preferred wallet provider
 4. Approve the connection request
-
-<!-- ![Wallet Connection](/img/wallet-connection.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Connecting your wallet to Compensator</em>
-</p> -->
 
 ### Step 2: Browse Delegates
 
@@ -53,11 +38,6 @@ Before you can delegate your COMP tokens, ensure you have:
    - Proposal analysis and reasoning
    - Communication channels
 
-<!-- ![Delegate Browser](/img/delegate-browser.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Exploring available delegates and their profiles</em>
-</p> -->
-
 ### Step 3: Select a Delegate
 
 1. Click on a delegate's profile to view detailed information
@@ -66,11 +46,6 @@ Before you can delegate your COMP tokens, ensure you have:
    - **Voting History**: Past proposals and voting decisions
    - **Proposal Analysis**: Detailed reasoning for their votes
    - **Terms**: Any specific conditions or requirements
-
-<!-- ![Delegate Profile](/img/delegate-profile.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Detailed delegate profile with voting history and rewards</em>
-</p> -->
 
 ### Step 4: Delegate Your Tokens
 
@@ -81,11 +56,6 @@ Before you can delegate your COMP tokens, ensure you have:
    - Gas fees
 4. Confirm the transaction in your wallet
 
-<!-- ![Delegation Transaction](/img/delegation-transaction.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Confirming your delegation transaction</em>
-</p> -->
-
 ### Step 5: Monitor Your Delegation
 
 After successful delegation, you can:
@@ -94,11 +64,6 @@ After successful delegation, you can:
 2. **View Voting Activity**: See how your delegate votes on proposals
 3. **Manage Delegation**: Modify or withdraw your delegation at any time
 4. **Claim Rewards**: Withdraw earned COMP tokens
-
-<!-- ![Delegation Dashboard](/img/delegation-dashboard.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Your delegation dashboard showing rewards and voting activity</em>
-</p> -->
 
 ## Important Considerations
 
@@ -114,11 +79,6 @@ After successful delegation, you can:
 2. **Research Delegates**: Always review a delegate's history and reputation
 3. **Monitor Activity**: Regularly check your delegate's voting behavior
 4. **Diversify**: Consider delegating to multiple delegates
-
-<!-- ![Security Guidelines](/img/delegation-security.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Security best practices for safe delegation</em>
-</p> -->
 
 ## Troubleshooting
 

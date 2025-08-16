@@ -10,11 +10,6 @@ Rewards in Compensator are designed to be:
 - **Automatic**: No manual intervention required for reward calculation
 - **Secure**: Smart contract-based reward distribution
 
-<!-- ![Rewards Overview](/img/rewards-overview.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>How the reward system works in Compensator</em>
-</p> -->
-
 ## Reward Mechanics
 
 ### Real-Time Accrual
@@ -23,16 +18,6 @@ Rewards accumulate in real-time based on:
 - **Delegation Amount**: The quantity of COMP you've delegated
 - **Time Delegated**: How long your COMP has been delegated
 - **Reward Rate**: The percentage offered by your delegate
-
-<!-- ![Reward Calculation](/img/reward-calculation.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Real-time reward calculation formula and factors</em>
-</p> -->
-
-<!-- ![Reward Rate Examples](/img/reward-rate-examples.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Examples of different reward rate structures</em>
-</p> -->
 
 ## Eligibility Requirements
 
@@ -53,11 +38,6 @@ To be eligible for rewards, you must:
 2. **Delegate to Qualified Delegate**: Choose a delegate with a Compensator instance
 3. **Maintain Delegation**: Keep your tokens delegated to earn ongoing rewards
 
-<!-- ![Eligibility Flowchart](/img/rewards-eligibility.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Eligibility requirements for both delegates and delegators</em>
-</p> -->
-
 ## How to Claim Rewards
 
 ### Step 1: Check Your Rewards
@@ -65,11 +45,6 @@ To be eligible for rewards, you must:
 1. Connect your wallet to [Compensator.io](https://compensator.io)
 2. Look for the rewards indicator in the navigation menu
 3. The rewards accrued shows near the connect wallet button
-
-<!-- ![Rewards Display](/img/rewards-display.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Where to find your accrued rewards in the interface</em>
-</p> -->
 
 ### Step 2: Review Reward Details
 
@@ -79,11 +54,6 @@ Before claiming, review:
 - **Time Period**: How long you've been earning these rewards
 - **Gas Fees**: Estimated cost to claim your rewards
 
-<!-- ![Reward Details](/img/reward-details.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Detailed breakdown of your reward earnings</em>
-</p> -->
-
 ### Step 3: Claim Your Rewards
 
 1. Click on the rewards indicator in the navigation
@@ -91,11 +61,6 @@ Before claiming, review:
 3. Confirm the transaction in your wallet
 4. Wait for blockchain confirmation
 5. Receive COMP tokens directly to your wallet
-
-<!-- ![Claim Process](/img/claim-process.png)
-<p style={{ textAlign: 'center', opacity: 0.7, marginTop: '-6px' }}>
-  <em>Step-by-step process for claiming your rewards</em>
-</p> -->
 
 ## Troubleshooting
 
