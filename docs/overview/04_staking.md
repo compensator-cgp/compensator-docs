@@ -2,11 +2,12 @@
 
 Staking in Compensator allows COMP holders to incentivize vote outcomes. By staking COMP holdings for or against particular proposals, holders can directly influence voting behavior transparently and at scale.
 
-### What is Staking?
+## What is Staking?
 
 Staking enables you to:
 - **Incentivize Outcomes**: Reward delegates for voting your preferred way
 - **Risk Management**: Get your stake back if your outcome loses
+- **Governance Participation**: Actively engage in Compound DAO decisions
 
 ## Staking Mechanics
 
@@ -30,34 +31,21 @@ Staking enables you to:
 
 ## Prerequisites
 
-### Before You Can Stake
-
-1. **COMP Token Ownership**: You must hold COMP in your wallet
-2. **Active Delegation**: You must have delegated COMP to a delegate's Compensator instance
-3. **Connected Wallet**: Your Web3 wallet must be connected to the platform
-4. **Ethereum Network**: Ensure you're on the correct Ethereum network
+- **COMP Token Ownership**: You must hold COMP in your wallet
+- **Connected Wallet**: Your Web3 wallet must be connected to the platform
+- **Ethereum Network**: Ensure you're on Ethereum Mainnet
+- **Active Proposal**: The proposal must be in an active voting state
 
 ## How to Stake
 
-### Step 1: Identify a Proposal
+### Step 1: Identify and Analyze a Proposal
 
-1. Navigate to the "Proposals" section on [Compensator.io](https://compensator.io)
+1. Navigate to the "Proposals" section on the platform
 2. Browse active governance proposals
-3. Review proposal details including:
-   - Proposal description and rationale
-   - Current voting status
-   - Timeline for voting
-   - Potential impact on the ecosystem
+3. Review proposal details including description, voting status, timeline, and potential impact
+4. Determine whether you support or oppose the proposal
 
-### Step 2: Analyze the Proposal
-
-Before staking, thoroughly analyze:
-- **Proposal Content**: Understand what the proposal aims to achieve
-- **Potential Impact**: Consider how it affects the Compound ecosystem
-- **Your Position**: Determine whether you support or oppose the proposal
-- **Delegate Alignment**: Check if your delegates share your position
-
-### Step 3: Choose Your Amount
+### Step 2: Choose Your Amount
 
 Consider these factors when deciding stake amount:
 - **Available COMP**: How much you can afford to stake
@@ -65,50 +53,55 @@ Consider these factors when deciding stake amount:
 - **Risk Tolerance**: Your comfort level with potential outcomes
 - **Delegate Incentive**: Amount needed to meaningfully incentivize delegates
 
-### Step 4: Place Your Stake
+### Step 3: Place Your Stake
 
 1. Click on the proposal you want to stake on
 2. Select "For" or "Against" based on your preference
 3. Enter the amount of COMP tokens you want to stake
-4. Review the transaction details including:
-   - Gas fees
-   - Stake amount
-   - Expected outcome
+4. Review transaction details including gas fees and stake amount
 5. Confirm the transaction in your wallet
 
-### Step 5: Monitor Your Stake
+### Step 4: Monitor Your Stake
 
 After placing your stake:
-1. **Track Voting Progress**: Monitor how delegates are voting
-2. **Watch Proposal Status**: Follow the proposal through the voting period
-3. **Prepare for Outcome**: Understand what happens when voting concludes
-4. **Manage Multiple Stakes**: If you have stakes on multiple proposals
+- Track voting progress and monitor how delegates are voting
+- Watch proposal status through the voting period
+- Prepare for outcome and manage multiple stakes if applicable
 
-### Delegation Requirements
+## Staking Features
 
-You must have delegated COMP to a delegate's Compensator instance. This ensures:
-- Secure transaction processing
-- Transparent stake distribution
-- Valid governance participation
+### Proposal Staking
+
+- **Active Proposals Only**: You can only stake on proposals that are currently active
+- **For/Against Options**: Choose to stake in support of or against a proposal
+- **Flexible Amounts**: Stake any amount of COMP you have available
+- **Direct Staking**: Stake COMP directly from your wallet - no need to deposit first
+
+### Stake Management
+
+- **View Active Stakes**: See all your current stakes across different proposals
+- **Track Performance**: Monitor how your stakes are performing
+- **Claim Winnings**: Collect winning stakes after proposal resolution
+- **Reclaim Losses**: Get losing stakes back automatically
+
+## Proposal Resolution
+
+### Automatic Resolution
+
+- **Governor State Check**: Proposals are resolved based on Compound Governor state
+- **Outcome Determination**: Winning side is determined by actual proposal results
+- **Stake Distribution**: Stakes are automatically distributed based on outcomes
+
+### Manual Resolution
+
+- **Anyone Can Resolve**: Any user can trigger proposal resolution
+- **Timeout Protection**: Proposals auto-resolve after 30 days if not manually resolved
+- **Stake Reclamation**: Users can reclaim stakes after resolution
 
 ## Troubleshooting
 
 ### Common Issues
 
-**Transaction Fails**
-- Ensure you have sufficient ETH for gas fees
-- Verify you have delegated COMP to a Compensator instance
-- Check that you're on the correct Ethereum network
-- Confirm your wallet is properly connected
-
-**Stake Not Showing**
-- Refresh the page and reconnect your wallet
-- Check the transaction status on Etherscan
-- Verify the proposal is still active
-- Contact support if issues persist
-
-**Delegation Requirement Error**
-- You must delegate COMP tokens before staking
-- Ensure your delegate has a Compensator instance
-- Check that your delegation is active and confirmed
-- Review [delegation guide](./delegation) for setup
+- **Transaction Fails**: Ensure sufficient ETH for gas fees and verify you have sufficient COMP tokens
+- **Stake Not Showing**: Refresh page, reconnect wallet, or check transaction status on Etherscan
+- **Insufficient COMP Balance**: Ensure you have enough COMP tokens and they're not locked in other contracts

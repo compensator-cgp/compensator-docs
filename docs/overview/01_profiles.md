@@ -1,140 +1,64 @@
 # Profiles
 
-Profiles are the foundation of Compensator's delegate marketplace. Every user has a dedicated page that enables them to create a Compensator instance and establish their presence in the Compound ecosystem.
+Profiles are the foundation of Compensator's delegate marketplace. Every user has a dedicated page to create a Compensator instance and establish their presence in the Compound ecosystem.
 
-### What is a Profile?
+## What is a Profile?
 
 A profile serves as your identity and operational hub in Compensator, allowing you to:
 - **Establish Identity**: Create your delegate persona and reputation
-- **Configure Rewards**: Set reward rates, username, and more for delegators
+- **Configure Rewards**: Set reward rates and funding amounts for delegators
 - **Deploy Smart Contracts**: Set up your Compensator instance for reward distribution
-- **Manage Operations**: Handle delegations, rewards, and governance participation
+- **Manage Operations**: Delegations, rewards, staking, and governance participation
 
 ## Profile Components
 
 ### Core Profile Elements
 
 1. **Wallet Address**: Your Ethereum address for transactions
-2. **Reward Configuration**: Rate and terms for delegator compensation
+2. **Reward Configuration**: Rate and funding amount for delegator compensation
 3. **Smart Contract Instance**: Your deployed Compensator contract
 4. **Voting History**: Track record of governance participation
-
-### Smart Contract Integration
-
-Your profile is connected to a Compensator instance that:
-- **Manages Delegations**: Handles incoming vote power allocations
-- **Distributes Rewards**: Automatically pays delegators based on configured rates
-- **Tracks Performance**: Records voting history and delegate metrics
-- **Ensures Transparency**: Provides verifiable on-chain data
+5. **Staking Information**: Your staked COMP tokens and rewards
 
 ## How to Setup Your Profile
 
 ### Prerequisites
 
-Before creating your profile, ensure you have:
+- **COMP Tokens**: Sufficient COMP tokens for reward pool funding
+- **Web3 Wallet**: A connected wallet (MetaMask, WalletConnect, etc.)
+- **Ethereum Network**: Access to Ethereum mainnet
+- **Gas Fees**: ETH for transaction costs
 
-1. **COMP Tokens**: Sufficient COMP tokens for reward pool funding
-2. **Web3 Wallet**: A connected wallet (MetaMask, WalletConnect, etc.)
-3. **Ethereum Network**: Access to the correct Ethereum network
-4. **Gas Fees**: ETH for transaction costs (3 transactions required)
+### Setup Process
 
-### Step 1: Access Your Profile
+1. **Access Profile**: Visit `/profile` and connect your wallet
+2. **Create Compensator**: Click "Create Compensator" and deploy your smart contract
+3. **Configure Details**: Set profile name, delegate address, reward rate (APR %), and funding amount
+4. **Deploy Contract**: Deploy your Compensator instance and fund the reward pool
 
-1. Visit [Compensator.io/profile](https://compensator.io/profile)
-2. Connect your wallet if not already connected
-3. Navigate to the profile creation section
-4. Review the setup requirements and costs
+## Profile Features
 
-### Step 2: Configure Information
+### Dashboard Overview
 
-Enter your profile details:
-
-**Required Information:**
-- **Name**: Your delegate name (will be displayed publicly)
-- **Wallet Address**: Your Ethereum address (auto-populated)
-
-**Optional Information:**
-- **Social Media Links**: Twitter, Discord, or other platforms
-- **Website**: Your personal or professional website
-- **Profile Picture**: Custom avatar for your profile
-
-### Step 3: Set Reward Configuration
-
-Configure your reward structure:
-
-**Reward Rate:**
-- Choose your annual reward rate (e.g., 1.5%, 2.0%, 3.0%)
-- Consider market rates and your competitive position
-- Higher rates attract more delegators but reduce your earnings
-
-**Reward Pool Funding:**
-- Determine how much COMP to deposit for rewards
-- Consider your expected delegation volume
-- Plan for ongoing funding needs
-
-### Step 4: Deploy Smart Contract
-
-The profile setup requires 3 transactions:
-
-**Transaction 1: Profile Creation**
-- Creates your profile on the platform
-- Establishes your delegate identity
-
-**Transaction 2: Instance Deployment**
-- Deploys your smart contract instance
-- Sets up reward distribution mechanisms
-
-**Transaction 3: Reward Pool Funding**
-- Deposits COMP tokens into your reward pool
-- Enables automatic reward distribution
-
-### Step 5: Verify Setup
-
-After completing all transactions:
-
-1. **Check Profile Status**: Verify your profile is active
-2. **Confirm Contract Deployment**: Ensure your Compensator instance is deployed
-3. **Test Reward Pool**: Verify your COMP tokens are properly deposited
-4. **Review Public Profile**: Check how your profile appears to potential delegators
+Your profile displays key metrics:
+- **Delegations**: Total amount delegated to you
+- **Vote Power**: Your current voting power in COMP
+- **Staked**: Amount of COMP tokens you have staked
+- **Rewards**: Pending rewards available for claiming
 
 ## Profile Management
 
 ### Ongoing Operations
 
-Once your profile is set up, you'll need to manage:
-
-**Delegation Management:**
-- Monitor incoming delegations
-- Track delegation amounts and sources
-- Manage delegation relationships
-
-**Reward Distribution:**
-- Ensure sufficient funds in reward pool
-- Monitor reward distribution performance
-- Adjust reward rates as needed
-
-**Governance Participation:**
-- Vote on DAO proposals through the Compensator interface
-- Publicly communicate reasoning for voting decisions
+- **Reward Distribution**: Ensure sufficient funds and monitor performance
+- **Delegation Management**: Monitor incoming delegations and track relationships
+- **Governance Participation**: Vote on DAO proposals and communicate reasoning
 
 ## Troubleshooting
 
 ### Common Issues
 
-**Transaction Failures:**
-- Ensure sufficient ETH for gas fees
-- Check that you're on the correct Ethereum network
-- Verify your wallet is properly connected
-- Try again during lower gas periods
-
-**Profile Not Showing:**
-- Wait for blockchain confirmations
-- Refresh the page and reconnect wallet
-- Check transaction status on Etherscan
-- Contact support if issues persist
-
-**Reward Pool Issues:**
-- Verify COMP token approval
-- Check for sufficient COMP balance
-- Ensure proper transaction confirmation
-- Review contract deployment status
+- **Transaction Failures**: Ensure sufficient ETH for gas fees and verify you're on Ethereum mainnet
+- **Profile Not Showing**: Wait for confirmations, refresh page, or check transaction status
+- **Reward Pool Issues**: Verify COMP token approval and sufficient balance
+- **Staking Issues**: Check for staked tokens and pending rewards
