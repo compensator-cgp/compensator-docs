@@ -1,6 +1,6 @@
 # Voting
 
-Compensator enables delegates to cast votes on Compound DAO proposals using the accumulated voting power from their delegators. When delegates vote correctly on proposals, they earn 100% of the staked rewards from delegators who staked on the winning side.
+Compensator enables delegates to cast votes on Compound proposals using voting power from their delegators. When delegates vote correctly, they earn 100% of the staked rewards from delegators who staked on the winning side.
 
 ## How Voting Works
 
