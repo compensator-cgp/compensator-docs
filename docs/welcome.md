@@ -1,6 +1,6 @@
 # Welcome
 
-Compensator is a marketplace for Compound DAO that enables transparent governance participation and incentivized delegation. Delegators can explore delegates and allocate vote power while delegates can offer transparent rewards. Compensator also enables the staking of COMP tokens for or against proposals.
+Compensator is a marketplace that enables transparent governance participation and incentivized delegation. Delegators can explore delegates and allocate vote power while delegates can offer transparent rewards.
 
 ## Key Features
 
@@ -10,7 +10,6 @@ Compensator is a marketplace for Compound DAO that enables transparent governanc
 
 ### **Incentivized Governance**
 - Earn rewards for allocating COMP vote power to delegates
-- Stake COMP tokens for or against specific proposals
 
 ### **Delegate Profiles**
 - Comprehensive delegate information and voting history
@@ -18,10 +17,9 @@ Compensator is a marketplace for Compound DAO that enables transparent governanc
 
 ## Getting Started
 
-1. **For Delegates**: Set up your [delegate profile](./overview/profiles) to start receiving delegations
-2. **For Delegators**: Explore our [delegation guide](./overview/delegation) to learn how to allocate your vote power
-3. **For Stakers**: Learn about [staking mechanisms](./overview/staking) to incentivize vote outcomes
-4. **For Developers**: Review our [contract addresses](../contracts/addresses) for integration
+- **For Delegates**: Set up your [delegate profile](./overview/profiles) to start receiving delegations
+- **For Delegators**: Explore our [delegation guide](./overview/delegation) to learn how to allocate your vote power
+- **For Developers**: Review our [contract addresses](../contracts/addresses) for integration
 
 ## Quick Links
 
@@ -83,16 +81,6 @@ Compensator is a marketplace for Compound DAO that enables transparent governanc
 <a href="../overview/rewards" class="quick-link-card">
   <h4>Rewards System</h4>
   <p>Claim COMP from delegations</p>
-</a>
-
-<a href="../overview/staking" class="quick-link-card">
-  <h4>Staking Guide</h4>
-  <p>Incentivize vote outcomes</p>
-</a>
-
-<a href="../overview/voting" class="quick-link-card">
-  <h4>Voting System</h4>
-  <p>Cast votes and earn rewards</p>
 </a>
 
 <a href="../contracts/addresses" class="quick-link-card">

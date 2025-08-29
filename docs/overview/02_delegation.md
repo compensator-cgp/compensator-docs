@@ -4,7 +4,7 @@ Delegation is the core mechanism that powers the Compensator marketplace. By del
 
 ## What is Delegation?
 
-Delegation allows COMP holders to allocate voting power to delegates who vote on their behalf. This enables:
+Delegation allows COMP holders to allocate voting power to delegates. This enables:
 
 - **Passive Participation**: Vote without actively monitoring every proposal
 - **Reward Earning**: Receive COMP tokens from delegates who offer rewards
@@ -60,7 +60,6 @@ The delegation system provides:
 
 - Delegations use Compound's native delegation system
 - Your COMP tokens remain in your wallet but voting power is transferred
-- You can change your delegation at any time
 - Delegations are not locked and can be modified freely
 
 ### Security Best Practices
@@ -68,7 +67,7 @@ The delegation system provides:
 1. **Start Small**: Begin with smaller delegations to test the system
 2. **Research Delegates**: Always review a delegate's address and reputation
 3. **Monitor Activity**: Regularly check your delegate's voting behavior
-4. **Verify Addresses**: Double-check delegate addresses before delegating
+4. **Verify Addresses**: Double-check addresses before delegating
 
 ## Troubleshooting
 

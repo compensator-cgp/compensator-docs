@@ -26,8 +26,6 @@ const sidebars = {
         'overview/profiles',
         'overview/delegation',
         'overview/rewards',
-        'overview/staking',
-        'overview/voting',
       ],
     },
     {
