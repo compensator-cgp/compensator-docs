@@ -1,25 +1,31 @@
 # Welcome
 
-Compensator is a marketplace that enables transparent governance participation and incentivized delegation. Delegators can explore delegates and allocate vote power while delegates can offer transparent rewards.
+[Compensator](https://compensator.io) is a delegate marketplace. It connects COMP token holders with trusted delegates, enabling transparent delegation and rewarding participation in the Compound ecosystem. Our platform creates a win-win ecosystem where delegates can build reputation while delegators earn passive income.
 
-## Key Features
+## Why Choose Compensator?
 
-### **Delegate Marketplace**
-- Discover and evaluate delegates based on their track record
-- Transparent reward structures and delegation terms
+### **Trusted Delegate Marketplace**
+- Discover delegates with proven track records
+- Transparent reward structures and clear terms
+- Built-in reputation and performance tracking
 
-### **Incentivized Governance**
-- Earn rewards for allocating COMP vote power to delegates
+### **Earn While You Participate**
+- Competitive reward rates set by delegates
+- Generate passive income by delegating COMP
+- Real-time reward accrual and easy claiming
 
-### **Delegate Profiles**
-- Comprehensive delegate information and voting history
-- Performance metrics and proposal analysis
+### **Complete Delegate Profiles**
+- Performance metrics and delegation history
+- Transparent reward rates and funding information
+- Smart contract verification and security audits
 
 ## Getting Started
 
-- **For Delegates**: Set up your [delegate profile](./overview/profiles) to start receiving delegations
-- **For Delegators**: Explore our [delegation guide](./overview/delegation) to learn how to allocate your vote power
-- **For Developers**: Review our [contract addresses](../contracts/addresses) for integration
+Choose your path to start participating in the Compound ecosystem:
+
+- **For Delegates**: [Set up your profile](./overview/profiles) to start receiving delegations and offering rewards
+- **For Delegators**: [Learn delegation](./overview/delegation) and start earning rewards from your COMP tokens
+- **For Developers**: [Review contracts](../contracts/addresses) for integration and verification
 
 ## Quick Links
 
@@ -69,22 +75,22 @@ Compensator is a marketplace that enables transparent governance participation a
 <div class="quick-links-grid">
 
 <a href="../overview/profiles" class="quick-link-card">
-  <h4>Profile Setup</h4>
-  <p>Setup your delegate profile</p>
+  <h4>Delegate Profiles</h4>
+  <p>Create your profile and start receiving delegations</p>
 </a>
 
 <a href="../overview/delegation" class="quick-link-card">
   <h4>Delegation Guide</h4>
-  <p>Become a delegator and start earning</p>
+  <p>Learn how to delegate COMP and earn rewards</p>
 </a>
 
 <a href="../overview/rewards" class="quick-link-card">
   <h4>Rewards System</h4>
-  <p>Claim COMP from delegations</p>
+  <p>Understand how rewards and claiming works</p>
 </a>
 
 <a href="../contracts/addresses" class="quick-link-card">
-  <h4>Contract Addresses</h4>
-  <p>Verify smart contracts</p>
+  <h4>Smart Contracts</h4>
+  <p>Verify and integrate with our audited contracts</p>
 </a>
 </div>
