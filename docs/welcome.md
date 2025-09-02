@@ -2,9 +2,9 @@
 
 [Compensator](https://compensator.io) is a delegate marketplace. It connects COMP token holders with trusted delegates, enabling transparent delegation and rewarding participation in the Compound ecosystem. Our platform creates a win-win ecosystem where delegates can build reputation while delegators earn passive income.
 
-## Why Choose Compensator?
+## Features
 
-### **Trusted Delegate Marketplace**
+### **Delegate Marketplace**
 - Discover delegates with proven track records
 - Transparent reward structures and clear terms
 - Built-in reputation and performance tracking
@@ -13,11 +13,6 @@
 - Competitive reward rates set by delegates
 - Generate passive income by delegating COMP
 - Real-time reward accrual and easy claiming
-
-### **Complete Delegate Profiles**
-- Performance metrics and delegation history
-- Transparent reward rates and funding information
-- Smart contract verification and security audits
 
 ## Getting Started
 
